@@ -9,4 +9,4 @@ cows_legs = (cows * 4)
 pigs_legs = (pigs * 4)
 chickens_legs = (chickens * 2)
 
-print ("You have {} animals legs in a farm.".format(cows_legs + pigs_legs + chickens_legs))
+print ("You have {} animals legs in a farm.".format(cows_legs + pigs_legs + chickens_legs))   
